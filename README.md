@@ -30,19 +30,20 @@ By completing this reflection, you will gain a clearer understanding of your car
     - I need to improve on stoping to question myself if I'm good enough.
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - I love software development because I'm good at solving problems for a living 
+    - What values are important to me in a work environment helping my team mate 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - The I roles I have researched about is Software development 
+    - Any particular areas that I piqued interesting Hacking 
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - Since I good at learning underpress and keeping up with the trade I think I will fit well
+    - To see if I'm good enough to work in a team
+
 
 ### Part 3: SMART Career Goals
 
