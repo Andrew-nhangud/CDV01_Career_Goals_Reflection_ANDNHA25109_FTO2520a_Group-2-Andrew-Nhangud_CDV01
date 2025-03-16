@@ -16,17 +16,18 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Andrew Nhangud
+- **Date:** 07 November 2005
+- **Current Role/Position:** Student
+- **Field of Interest:** Software development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - I'm very good when it comes to working with a team.
+    - I love to solve problem as they help me to grow.
+    - I need to improve on stoping to question myself if I'm good enough.
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
